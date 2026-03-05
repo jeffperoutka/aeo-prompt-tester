@@ -1,0 +1,9 @@
+{
+    "name": "aeo-prompt-tester",
+    "version": "1.0.0",
+    "description": "AEO Labs AI Platform Testing API",
+    "dependencies": {
+          "@anthropic-ai/sdk": "^0.52.0",
+          "openai": "^4.70.0"
+    }
+}
